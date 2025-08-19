@@ -1,6 +1,5 @@
 import streamlit as st
-
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+# 기존 코드: st.title("My First App")
+# 수정 코드:
+st.title("🏫 오늘의 업무")
+st.write("오늘 해야할 일을 확인하세요!")
